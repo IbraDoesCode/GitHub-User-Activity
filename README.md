@@ -1,6 +1,6 @@
 # GitHub User Activity
 
-A simple CLI project to fetch the recent activity of a GitHub user and display it in the terminal. This project is part of the [Roadmap.sh](https://roadmap.sh/projects/github-user-activity) backend project challenges. This project helped me learn JavaScript, including working with Node, APIs and handling JSON data.
+A simple CLI [project](https://roadmap.sh/projects/github-user-activity) to fetch the recent activity of a GitHub user and display it in the terminal. This project is part of the [Roadmap.sh](https://roadmap.sh/) backend project challenges. This project helped me learn JavaScript, including working with Node, APIs and handling JSON data.
 
 ## Features
 
