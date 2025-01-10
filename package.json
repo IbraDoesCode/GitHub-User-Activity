@@ -1,0 +1,14 @@
+{
+  "name": "github-user-activity",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": {
+    "github-user-activity": "index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
